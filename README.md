@@ -1,6 +1,6 @@
 # MongoDB
 
-A Model Context Protocol server that provides read access to MongoDB databases. This server enables LLMs to interact with MongoDB collections and execute reqd queries.
+A Model Context Protocol server that provides read access to MongoDB databases. This server enables LLMs to interact with MongoDB collections and execute read queries.
 
 ## Components
 
